@@ -50,6 +50,7 @@ This will ask you a series of questions. For this project we’ll answer the fol
 
 Finally, you will be prompted to install some additional eslint libraries. Choose Yes.
 Run the linter to check all files with the .ts TypeScript extension:
+
 ```cmd
 npx eslint . --ext .ts
 ```
@@ -60,7 +61,7 @@ npx eslint . --ext .ts
 * ***npm run lint*** -  Run the linter to check all files with the .ts TypeScript extension
 
 
-# Some important features
+# Some important features contents
 
 - [JWT Token](#-jwt-token)
 
